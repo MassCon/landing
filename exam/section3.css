@@ -1,0 +1,23 @@
+.section3{
+    background-color: #fbfbfb;
+    height: 200%;
+    width: 100%;
+    margin-top: 0px;
+}
+
+.images_box{
+    display: flex;
+    margin-top: 10%;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
+}
+
+
+.single-img-box{
+    display: flex;
+    flex-direction: row;
+    
+}
+

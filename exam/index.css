@@ -1,0 +1,28 @@
+body, html{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+
+    font-family: Graphik;
+    background-color: rgb(207, 207, 207);
+    color: rgb(100, 100, 100);
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url(Graphik-Font-Family/GraphikRegular.otf);
+  }
+
+  @font-face {
+    font-family: Graphik_Bold;
+    src: url(Graphik-Font-Family/GraphikBold.otf);
+  }
+
+.red{
+    color:rgb(255, 83, 83);
+}
+
+h1{
+    font-size: 40px;
+}
+

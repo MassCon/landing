@@ -1,0 +1,19 @@
+.section4{
+    background-color: #ffffff;
+    height: 100%;
+    width: 100%;
+    margin-top: 0px;
+}
+
+.img-box{
+    display: flex;
+    flex-direction: column;
+}
+
+.sec4-box{
+    margin-top: 10%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+    margin-right: 10%;
+}

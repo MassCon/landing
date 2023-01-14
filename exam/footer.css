@@ -1,0 +1,15 @@
+.items_box_footer{
+    background-color: #fbfbfb;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    height: 30%;
+    row-gap: 10px;
+}
+
+footer{
+    background-color: #f7f7f7;
+}
